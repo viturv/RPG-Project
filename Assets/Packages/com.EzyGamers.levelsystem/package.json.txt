@@ -1,0 +1,8 @@
+{
+  "name": "com.ezygamers.levelsystem",
+  "version": "1.0.0",
+  "displayName": "Level Progression System",
+  "description": "A generic level progression and difficulty adjustment system for Unity games.",
+  "unity": "2021.1",
+  "dependencies": {}
+}
