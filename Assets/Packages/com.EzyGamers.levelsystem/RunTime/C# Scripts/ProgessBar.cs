@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Rendering.VirtualTexturing;
 using UnityEngine.UI;
 
 public class ProgressBar : MonoBehaviour
